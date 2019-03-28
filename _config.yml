@@ -88,16 +88,32 @@ defaults:
 # Site Author
 author:
   name: Vijai Ganapathy 
-  picture:
   email: vijai.ganapathy@gmail.com 
-  twitter: gvijai 
   links:
-    - title:
-      url:
-      icon:
+    - title: Twitter
+      url: https://twitter.com/gvijai
+      icon: fab fa-twitter-square
+    - title: GitHub
+      url: https://github.com/vijaigan
+      icon: fab fa-github-square
+#author:
+#  name: Vijai Ganapathy 
+#  picture:
+#  email: vijai.ganapathy@gmail.com 
+#  twitter: gvijai 
+#  links: true 
+#    - title:
+#      url:
+#      icon:
 
 # Footer Links
 footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+  - title: Twitter
+    url: https://twitter.com/gvijai
+    icon: fab fa-twitter-square
+  - title: GitHub
+    url: https://github.com/vijaigan
+    icon: fab fa-github-square
