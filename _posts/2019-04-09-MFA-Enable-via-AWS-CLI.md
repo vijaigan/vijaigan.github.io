@@ -36,7 +36,7 @@ VIRTUALMFADEVICE    arn:aws:iam::636XXXXXXX:mfa/VijaiMFADevice
 ~~~ 
 
 1. Now the `mfaout` file has Base32String.
-2. Open google autheticator and add new with + sign 
+2. Open google authenticator and add new with + sign 
 3. Choose "Enter Provided Key" 
 4. This will ask for new account name and "Your Key" 
 5. Please input the whole string from mfaout as input. 
