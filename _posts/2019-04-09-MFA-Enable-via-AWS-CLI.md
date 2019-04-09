@@ -21,9 +21,11 @@ I wanted to use Base32StringSeed as option check how it works.
 The following command creates virtual mfa device with the name VijaiMFADevice and outputs the string 
 to a file called mfa-out. 
 
-Keep in mind that this cli has output option of either QRCodePNG or Base32StringSeed. 
+> Keep in mind that this cli has output option of either QRCodePNG or Base32StringSeed. 
 I have choosen Base32StringSeed as example.  
-{: .notice}
+
+> Please ensure AWS cli is properly configured for your account before you execute the commands.
+[AWS CLI Configure](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html){: .btn .btn--inverse}
 
 [aws iam create-virtual-mfa-device ](https://docs.aws.amazon.com/cli/latest/reference/iam/create-virtual-mfa-device.html){: .btn .btn--inverse}
 
