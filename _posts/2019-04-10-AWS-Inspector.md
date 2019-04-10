@@ -1,24 +1,20 @@
 ---
-title: "AWS Inspector" 
-
-
-last_modified_at: 2019-04-09T22:01:25-05:00
-
+title: "AWS Inspector - Agent Install"
 image: 
+  path:  /images/AWS-Inspector-agent-install.png
+  thumbnail: /images/AWS-Inspector-agent-install.png
 
 categories:
   - AWS 
 tags:
   - AWS
   - INSPECTOR
+  - AGENT
   - SECURITY 
   - VIDEO
 --- 
 
-# Implementation of  AWS Inspector 
-
-
-
+# Implementation of  AWS Inspector - Agent Install 
 
 ## Readings required. 
 
