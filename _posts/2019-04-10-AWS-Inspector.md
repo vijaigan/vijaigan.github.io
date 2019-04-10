@@ -26,6 +26,10 @@ tags:
 >CVE, CIS, or Security Best Practices Rules Packages supports all kernel version.Runtime Behavior Analysis rules package only supports with supported kernel version. 
 - [Installing Amazon Inspector Agent](https://docs.aws.amazon.com/inspector/latest/userguide/inspector_installing-uninstalling-agents.html){: .btn .btn--inverse}{:target="_blank"}
 
+
+
+
+
 ~~~shell 
 ssh -i key ec2-user@xxxxx 
 mkdir inspector ; cd inspector 
@@ -36,7 +40,17 @@ curl -O https://d1wk0tztpsntt1.cloudfront.net/linux/latest/install.sig
 gpg --verify ./install.sig 
 sudo bash ./install 
 ~~~ 
+- Once the agent install is complete schedule the "run once" assesment from your inspector console. 
+- Wait for "Assessment Run" to complete. [ Took about an Hour for me] 
+- Download your Assessment Report from [Assessment Run](https://eu-west-1.console.aws.amazon.com/inspector/home?region=eu-west-1#/run) Link as shown in below picture.
+![Assessment report](/images/AWS-Inspector-report.png)
 
+<p>
+
+
+
+
+</P>
 
 ### AWS Inspector Agent install video 
 <video width="400" height="200" controls preload> 
