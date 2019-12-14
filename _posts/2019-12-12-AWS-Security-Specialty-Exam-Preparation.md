@@ -46,6 +46,7 @@ AWS Security
 6. <https://d0.awsstatic.com/whitepapers/KMS-Cryptographic-Details.pdf> - AWS KMS Cryptographic Details
 7. <https://d1.awsstatic.com/whitepapers/aws_security_incident_response.pdf> - AWS Security Incident Response Guide
 8. <https://d0.awsstatic.com/whitepapers/aws-kms-best-practices.pdf> - AWS Security Service Best Practices 
+9. <https://d1.awsstatic.com/whitepapers/Security/DDoS_White_Paper.pdf> - AWS DDOS Whitepaper 
 
 
 ### Videos
