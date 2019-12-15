@@ -18,6 +18,14 @@ Note: These are notes which took during the exam study. Hope this will be useful
 
 AWS Security
 
+## Online references that I used 
+
+1. <https://tutorialsdojo.com/aws-cheat-sheets/> - Tutorials Dojo - for associate / professional exam preparation.   
+2. <http://jayendrapatil.com/> - Jayendra Patil's blog for all AWS / GCP Exam preparation. 
+3. <https://www.udemy.com/course/aws-certified-security-specialty/> - Zeal Vora's Security Specialty - Course  
+4. <https://www.whizlabs.com/aws-certified-security-specialty/practice-test/> - whizlabs Security Specialty practice exam - useful for understanding areas you need to concentrate. 
+
+
 ## Exam Guide
 
 1. <https://d1.awsstatic.com/training-and-certification/docs-security-spec/AWS%20Certified%20Security%20Specialty_Exam%20Guide_v1.6_FINAL.pdf>
