@@ -2,8 +2,8 @@
 title: "AWS CLI - IAM Password Policy Update" 
 
 image: 
-  path:  /images/aws-cli-password.png
-  thumbnail: /images/aws-cli-password.png 
+  path:  /images/aws-cli-password.webp
+  thumbnail: /images/aws-cli-password.webp 
 categories:
   - AWS 
 tags:

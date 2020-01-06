@@ -1,8 +1,8 @@
 ---
 title: "AWS Cli - RDS Cluster Snapshot"
 image: 
-  path:  /images/AWS-rds-snapshot-cli.png
-  thumbnail: /images/AWS-rds-snapshot-cli.png
+  path:  /images/AWS-rds-snapshot-cli.webp
+  thumbnail: /images/AWS-rds-snapshot-cli.webp
 
 categories:
   - AWS 

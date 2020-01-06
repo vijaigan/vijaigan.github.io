@@ -1,8 +1,8 @@
 ---
 title: "AWS Advanced Networking Specialty - Exam Preparation Notes"
 image: 
-  path:  /images/AWS-ANS.png
-  thumbnail: /images/AWS-ANS.png
+  path:  /images/AWS-ANS.webp
+  thumbnail: /images/AWS-ANS.webp
 
 categories:
   - AWS 

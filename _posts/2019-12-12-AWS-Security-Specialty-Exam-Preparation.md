@@ -1,8 +1,8 @@
 ---
 title: "AWS Security Specialty - Exam Preparation Notes"
 image: 
-  path:  /images/AWS-CSS.png
-  thumbnail: /images/AWS-CSS.png
+  path:  /images/AWS-CSS.webp
+  thumbnail: /images/AWS-CSS.webp
 
 categories:
   - AWS 

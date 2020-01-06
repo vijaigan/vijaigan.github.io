@@ -2,8 +2,8 @@
 title: "AWS CLI - MFA Enable for a IAM user"
 
 image: 
-  path:  /images/aws-cli-mfa.png
-  thumbnail: /images/aws-cli-mfa.png 
+  path:  /images/aws-cli-mfa.webp
+  thumbnail: /images/aws-cli-mfa.webp
   caption: "[aws cli mfa ](https://vijaigan.github.io/aws/MFA-Enable-via-AWS-CLI/)"
 categories:
   - AWS 
