@@ -12,6 +12,7 @@ tags:
   - SECURITY
   - NETWORKING
 --- 
+{% include toc %}
 
 # AWS Advanced Networking - Notes 
 ### Notes taken during the preparation for the exam.
