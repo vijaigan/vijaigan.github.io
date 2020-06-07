@@ -29,6 +29,7 @@ AWS Security Spciality Exam Notes:
 2. <http://jayendrapatil.com/> - Jayendra Patil's blog for all AWS / GCP Exam preparation. 
 3. <https://www.udemy.com/course/aws-certified-security-specialty/> - Zeal Vora's Security Specialty - Course  
 4. <https://www.whizlabs.com/aws-certified-security-specialty/practice-test/> - whizlabs Security Specialty practice exam - useful for understanding areas you need to concentrate. 
+5. <https://learn.cantrill.io/p/aws-certified-solutions-architect-professional> - Adrian Cantrill's new course talks about Network and Security topics which are part of AWS CA Professional. 
 
 
 ## Exam Guide
