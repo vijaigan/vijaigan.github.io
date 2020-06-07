@@ -16,7 +16,12 @@ tags:
 
 Note: These are notes which took during the exam study. Hope this will be useful to somebody. 
 
-AWS Security
+<https://www.linkedin.com/in/gvijai/> - My Linkedin profile:
+
+Please send me a note of any other site / links that needs to be added to this page. 
+
+
+AWS Security Spciality Exam Notes: 
 
 ## Online references that I used 
 
