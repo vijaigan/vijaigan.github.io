@@ -14,7 +14,7 @@ tags:
 --- 
 
 
-Note: These are notes which took during the exam study. Hope this will be useful to somebody. 
+Note: These are notes I took during the AWS Security Specialty exam study. Hope this will be useful to somebody. 
 
 <https://www.linkedin.com/in/gvijai/> - My Linkedin profile:
 
@@ -23,14 +23,16 @@ Please send me a note of any other site / links that needs to be added to this p
 
 AWS Security Spciality Exam Notes: 
 
-## Online references that I used 
+## Online references that I used / Online Resources to be referred.
 
 1. <https://tutorialsdojo.com/aws-cheat-sheets/> - Tutorials Dojo - for associate / professional exam preparation.   
 2. <http://jayendrapatil.com/> - Jayendra Patil's blog for all AWS / GCP Exam preparation. 
 3. <https://www.udemy.com/course/aws-certified-security-specialty/> - Zeal Vora's Security Specialty - Course  
 4. <https://www.whizlabs.com/aws-certified-security-specialty/practice-test/> - whizlabs Security Specialty practice exam - useful for understanding areas you need to concentrate. 
 5. <https://learn.cantrill.io/p/aws-certified-solutions-architect-professional> - Adrian Cantrill's new course talks about Network and Security topics which are part of AWS CA Professional. 
+6. <https://reviewnprep.com> - reviewnprep.com site provides blogs, reviews and practice exams for free on AWS, AZURE, Oracle , etc. 
 
+### Disclaimer: I am not associated with any of the above mentioned organization / companies and I do not any way getting any benefit from these site 
 
 ## Exam Guide
 
