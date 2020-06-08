@@ -31,6 +31,7 @@ AWS Security Spciality Exam Notes:
 4. <https://www.whizlabs.com/aws-certified-security-specialty/practice-test/> - whizlabs Security Specialty practice exam - useful for understanding areas you need to concentrate. 
 5. <https://learn.cantrill.io/p/aws-certified-solutions-architect-professional> - Adrian Cantrill's new course talks about Network and Security topics which are part of AWS CA Professional. 
 6. <https://reviewnprep.com> - reviewnprep.com site provides blogs, reviews and practice exams for free on AWS, AZURE, Oracle , etc. 
+7. https://acloud.guru/learn/aws-certified-security-specialty - a Cloud Guru Security Specialty Training.
 
 ### Disclaimer: I am not associated with any of the above mentioned organization / companies and I do not any way getting any benefit from these sites.  
 
