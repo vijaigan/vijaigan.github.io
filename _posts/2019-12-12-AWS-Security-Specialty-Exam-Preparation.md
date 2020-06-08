@@ -32,7 +32,7 @@ AWS Security Spciality Exam Notes:
 5. <https://learn.cantrill.io/p/aws-certified-solutions-architect-professional> - Adrian Cantrill's new course talks about Network and Security topics which are part of AWS CA Professional. 
 6. <https://reviewnprep.com> - reviewnprep.com site provides blogs, reviews and practice exams for free on AWS, AZURE, Oracle , etc. 
 
-### Disclaimer: I am not associated with any of the above mentioned organization / companies and I do not any way getting any benefit from these site 
+### Disclaimer: I am not associated with any of the above mentioned organization / companies and I do not any way getting any benefit from these sites.  
 
 ## Exam Guide
 
