@@ -12,6 +12,8 @@ tags:
   - SECURITY
   - NETWORKING
 --- 
+Note: These are notes I took during the AWS Advanced Networking Specialty exam study. Hope this will be useful to somebody. 
+
 {% include toc %}
 
 # AWS Advanced Networking - Notes 
