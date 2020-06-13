@@ -12,6 +12,7 @@ tags:
   - Kernel 
   - Patching 
 --- 
+Linux Kernel Live patching on variuos distributions and their technology , products are documented here. 
 ## Linux Kernel Live Patching 
 
 
