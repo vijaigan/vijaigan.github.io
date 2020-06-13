@@ -12,10 +12,6 @@ tags:
   - Kernel 
   - Patching 
 --- 
-<https://www.linkedin.com/in/gvijai/> - My Linkedin profile:
-Please send me a note of any other site / links that needs to be added to this page. 
-
-
 ## Linux Kernel Live Patching 
 
 
@@ -38,6 +34,12 @@ Please send me a note of any other site / links that needs to be added to this p
 
 1. <https://blog.dustinkirkland.com/2016/10/canonical-livepatch.html> Dustin Kirkland Site 
 2. <https://github.com/dynup/kpatch> Kpatch github 
+
+
+### Let's Connect 
+<https://www.linkedin.com/in/gvijai/> - My Linkedin profile:
+Please send me a note of any other site / links that needs to be added to this page. 
+
 
 
 
