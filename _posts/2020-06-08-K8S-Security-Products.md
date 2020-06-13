@@ -1,5 +1,7 @@
 ---
 title: "K8S Security Products"
+image: 
+  thumbnail: /images/k8s.png 
 
 categories:
   - K8S
