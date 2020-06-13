@@ -8,10 +8,6 @@ tags:
   - K8S
   - SECURITY 
 --- 
-<https://www.linkedin.com/in/gvijai/> - My Linkedin profile:
-Please send me a note of any other site / links that needs to be added to this page. 
-
-
 ## K8S Security Prodcuts 
 
 
@@ -34,5 +30,8 @@ Please send me a note of any other site / links that needs to be added to this p
 
 ### Product Features 
 
+
+<https://www.linkedin.com/in/gvijai/> - My Linkedin profile:
+Please send me a note of any other site / links that needs to be added to this page. 
 
 
