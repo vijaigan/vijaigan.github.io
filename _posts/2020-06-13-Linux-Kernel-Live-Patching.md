@@ -20,7 +20,7 @@ tags:
 
 | Sl.No |  Linux Distro     |           website |  Technology / Product | 
 |-------|--------|---------|---------|
-| 1 | Amazon EC2    |   <https://aws.amazon.com/blogs/apn/ live-patching-linux-without-downtime-on-aws-graviton2-instances/> , <https://www.kernelcare.com/supported-distributions-and-kernels/> | KernelPatch | 
+| 1 | Amazon EC2    |   <https://aws.amazon.com/blogs/apn/live-patching-linux-without-downtime-on-aws-graviton2-instances/> , <https://www.kernelcare.com/supported-distributions-and-kernels/> | KernelPatch | 
 | 2 | Suse Enterprise Linux | <https://documentation.suse.com/sles/12-SP4/html/SLES-kgraft/index.html> , <https://documentation.suse.com/es-es/sles/15-SP1/html/SLES-all/cha-klp.html> | KLP and Kgraft | 
 | 3 | RedHat Linux 	| <https://access.redhat.com/articles/2475321>  | kpatch | 
 | 4 | Ubuntu | <https://ubuntu.com/blog/live-kernel-patching-from-canonical-now-available-for-ubuntu> | KernelLivePatch | 
