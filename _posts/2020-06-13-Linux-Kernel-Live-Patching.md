@@ -1,7 +1,6 @@
 ---
 title: "Linux Kernel Live Patching - AWS Amazon Linux,RedHat Linux,Suse Linux,Centos and Ubuntu"
 image: 
-  path:  /images/Tux.png
   thumbnail: /images/Tux.png
 
 categories:
