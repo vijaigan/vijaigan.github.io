@@ -20,7 +20,7 @@ Please send me a note of any other site / links that needs to be added to this p
 ### Linux Kernel Live Patching Distro wise 
 
 
-| Sl.No |  Linux Distro     |           website |  Techhnology / Product | 
+| Sl.No |  Linux Distro     |           website |  Technology / Product | 
 |-------|--------|---------|---------|
 | 1 | Amazon EC2    |   https://aws.amazon.com/blogs/apn/ live-patching-linux-without-downtime-on-aws-graviton2-instances/ , https://www.kernelcare.com/supported-distributions-and-kernels/ | KernelPatch | 
 | 2 | Suse Enterprise Linux | https://documentation.suse.com/sles/12-SP4/html/SLES-kgraft/index.html , https://documentation.suse.com/es-es/sles/15-SP1/html/SLES-all/cha-klp.html | KLP and Kgraft | 
