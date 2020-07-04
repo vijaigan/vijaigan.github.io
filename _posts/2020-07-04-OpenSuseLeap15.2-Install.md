@@ -14,7 +14,7 @@ tags:
   -  
 --- 
 ## OpenSuse Leap 15.2 Linux Installation 
-OpenSuse Leap 15.2 Installation on KVM based hypervisor. I am using OpenSuse Leap 15.2 Network Boot ISO image for latest updated pakcages from the repositories. 
+OpenSuse Leap 15.2 Installation on KVM based hypervisor. I am using OpenSuse Leap 15.2 Network Boot ISO image for Installation of latest updated pakcages from the repositories. 
 
 
 
